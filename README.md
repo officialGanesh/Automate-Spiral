@@ -1,6 +1,8 @@
 
 # Drawing Spiral Using PyAutoGui 🖌️
 
+# Please Work Carefully With pyAutoGui (use Ctrl+Alt+Del for Windows and you can use Command-Shift-Option-Q) to log out.
+
 ## Project Description 
 In this project we'll be drawing spiral using pyAutoGui module in python.
 This project is a part of " AUTOMATE THE BORING STUFF USING PYTHON (by AL SWEIGART) ".
