@@ -7,5 +7,5 @@ This project is a part of " AUTOMATE THE BORING STUFF USING PYTHON (by AL SWEIGA
 
 ### TODO
 1️⃣ Need to write Draw function.
-2️⃣ Open Ms Paint to draw spiral.
+2️⃣ Open Ms Paint to draw spiral. And select the Markers.
 3️⃣ Save the file in current working directory.
